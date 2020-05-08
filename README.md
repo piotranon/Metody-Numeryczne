@@ -12,6 +12,6 @@ Lista algorytmów.
 1. [Całkowanie numeryczne - metoda trapezów](https://github.com/piotranon/Metody-Numeryczne/blob/master/src/main/java/Lab1/Zad7.java)
 1. [Całkowanie numeryczne - metoda prostokątów](https://github.com/piotranon/Metody-Numeryczne/blob/master/src/main/java/Lab1/Zad8.java)
 1. [Całkowanie numeryczne - metoda parabol](https://github.com/piotranon/Metody-Numeryczne/blob/master/src/main/java/Lab1/Zad9.java)
-1. Rozwiązywanie równań liniowych - eliminacji Gaussa
-1. Rozwiązywanie równań liniowych - rozkład Lu
+1. [Rozwiązywanie równań liniowych - eliminacji Gaussa](https://github.com/piotranon/Metody-Numeryczne/blob/master/src/main/java/Lab1/Zad10.java)
+1. [Rozwiązywanie równań liniowych - rozkład Lu](https://github.com/piotranon/Metody-Numeryczne/blob/master/src/main/java/Lab1/Zad11.java)
 1. Aproksymacja wielomianowa / trygonometryczna
